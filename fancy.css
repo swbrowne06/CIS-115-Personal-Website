@@ -1,0 +1,13 @@
+/* id-based rule */
+#bold { 
+	font-weight: bold;
+}
+/* class-based rule */
+.red { 
+	color: red;
+}
+
+/* element-based or tag-based rule */
+p {
+	font-size: 1.2em;
+}
